@@ -8,9 +8,6 @@ nav:
 
 menu:
   首页: / || fas fa-home
-  归档: /archives/ || fas fa-archive
-  分类: /categories/ || fas fa-folder-open
-  标签: /tags/ || fas fa-tags
   关于: /about/ || fas fa-user-graduate
 
 code_blocks:
@@ -73,9 +70,8 @@ subtitle:
   typed_option:
   source: false
   sub:
-    - 把博士生活写成可复盘的研究日志
-    - 记录论文、实验、代码和方法论
-    - 慢慢搭建自己的科研工具箱
+    - 慢慢学
+
 
 index_layout: 3
 index_post_content:
